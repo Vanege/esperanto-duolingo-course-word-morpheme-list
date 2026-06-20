@@ -1366,6 +1366,7 @@ voĉdon
 voj
 vojaĝ
 vok
+vol
 volont
 vort
 vost
