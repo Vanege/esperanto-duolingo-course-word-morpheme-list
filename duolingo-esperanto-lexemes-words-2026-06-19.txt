@@ -288,6 +288,7 @@ denaskulo
 denove
 densa
 dependi
+des
 desegni
 deserto
 devigata
@@ -743,6 +744,7 @@ jaro
 je
 jen
 jes
+ju
 judismo
 juĝisto
 julio
