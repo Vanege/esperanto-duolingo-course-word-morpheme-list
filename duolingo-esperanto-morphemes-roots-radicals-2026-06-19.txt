@@ -215,6 +215,7 @@ demokrati
 den
 dens
 depend
+des
 desegn
 desert
 dev
@@ -518,6 +519,7 @@ jen
 jes
 jud
 juĝ
+ju
 juli
 jun
 juni
