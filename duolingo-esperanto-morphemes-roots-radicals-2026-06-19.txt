@@ -485,7 +485,7 @@ ing
 inĝenier
 inkluziv
 insekt
-instr
+instru
 insul
 int
 inteligent
