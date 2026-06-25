@@ -341,6 +341,7 @@ fingr
 finn
 firma
 fiŝ
+flag
 flank
 flar
 flav
