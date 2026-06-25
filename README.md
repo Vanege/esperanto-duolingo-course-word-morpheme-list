@@ -3,7 +3,8 @@ List of words (named "lexemes") and morphemes (roots, radicals, affixes, endings
 
 You can use these lists to:
 - build your own Anki deck (to memorize them faster)
-- write texts that are easy to read for people who learn Esperanto using Duolingo. Duolingo is still the most popular way to learn Esperanto (as of 2026) despite a dramatic drop in quality due to the removal of essential features (grammar notes, most output exercises and the ability to ask for help for each sentence (forum)).
+- write texts that are easy to read for people who learn Esperanto using Duolingo. For example, this tool to check the roots of an Esperanto text uses the list here: https://codepen.io/VanegeEsperanto/full/emgRbYv
+  Duolingo is still the most popular way to learn Esperanto (as of 2026) despite a dramatic drop in quality due to the removal of essential features (grammar notes, most output exercises and the ability to ask for help for each sentence (forum)).
 
 The two files:
 - The file with the 2018 "lexemes" (actually they are the words that are explicitly taught by Duolingo) is based on https://duome.eu/vocabulary/en/eo, on the date of 2026-06-19. The numerical numbers (1887, 1905) are removed, and the proper nouns (Parizo, Toronto, Roterdam, IJK, UK...) are capitalized. Note that I manually added "ju" and "des" since they are not present in the original list, but they are clearly taught by Duolingo: https://duome.eu/tips/en/eo
